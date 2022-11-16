@@ -13,6 +13,7 @@ body {
 .robot {animation-name: slide; animation-duration: 2s;
 
 }
+.text{color: white;}
 
 @keyframes slide {from {transform: translateX(0);
 to {transform: translateX(800px);}
